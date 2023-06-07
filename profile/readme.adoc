@@ -21,15 +21,7 @@ Im Namen der Studiengangleitung und dem Dozierendenteam, danken wir dem Auftragg
 
 
 
-<!--
-At FHNW students work on a customer project in every semester. 
-This right from the start of their study, which is, admittenly, quite a challenge.
 
-Here you find the result of this challenge. 
-
-The goal was to create simulations and games for the Primeo Kosmos, an educating exhibitions of a local energy provider. 
-The students have been working in teams of about seven 
--->
 
 
 
