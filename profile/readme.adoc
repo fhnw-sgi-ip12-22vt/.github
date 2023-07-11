@@ -1,4 +1,4 @@
-[cols="1,1", frame=none, grid=none]
+[cols="1,1", frame=none, grid=rows]
 |===
 |image:images/logo-fhnw_10mm.jpg[width=30%, float=left, align=left]
 |image:images/logo-primeo.png[float=right, align=right]
