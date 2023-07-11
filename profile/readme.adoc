@@ -6,6 +6,8 @@
 
 = StudierendenProjekte 1&2 an der Fachhochschule Nordwestschweiz (FHNW) Informatik & iCompetence
 
+
+
 Studierendenprojekte sind ein Markenzeichen der FHNW. 
 Alle Studierenden arbeiten in jedem Semester an einem Projekt. 
 
@@ -25,6 +27,11 @@ Um die Studierenden bestmöglichst zu unterstützen wurden mehrere Studierendepr
 
 Im Namen der Studiengangleitung und dem Dozierendenteam, danken wir dem Auftraggeber, dem Team von Pi4J wie auch den Studierenden ganz herzlich für die Arbeit. 
 
+[cols="1,1", frame=none, grid=rows]
+|===
+|image:images/logo-fhnw_10mm.jpg[width=30%, float=left, align=left]
+|image:images/logo-primeo.png[float=right, align=right]
+|===
 
 
 
