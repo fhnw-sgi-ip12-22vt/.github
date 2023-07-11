@@ -1,7 +1,7 @@
 [cols="1,1", fram=none, grid=none]
 |===
-|image:images/logo-fhnw_10mm.jpg[width=30%, float=left, align=left]
-|image:images/logo-primeo.png[float=right, align=right]
+|image::images/logo-fhnw_10mm.jpg[width=30%, float=left, align=left]
+|image::images/logo-primeo.png[float=right, align=right]
 |===
 
 = StudierendenProjekte 1&2 an der Fachhochschule Nordwestschweiz (FHNW) Informatik & iCompetence
