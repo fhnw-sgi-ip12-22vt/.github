@@ -1,3 +1,6 @@
+image:logo-fhnw.png[float=left]
+image:logo-primeo.png[float=right]
+
 = StudierendenProjekte 1&2 an der Fachhochschule Nordwestschweiz (FHNW) Informatik & iCompetence
 
 Studierendenprojekte sind ein Markenzeichen der FHNW. 
@@ -13,7 +16,7 @@ Das diesjährige Thema wurde von https://www.primeo-energie.ch/en/ueber-uns/kosm
 Die neun Teams bestehend aus je sieben Mitgliedern haben die Herausforderung angenommen und geführt von Dozierenden der FHNW neun Spiel- oder Simulationsideen entwickelt und umgesetzt. 
 Wenn alles klappt, werden sie in der einen oder anderen Form im Primeo Energie Kosmos zu sehen sein.
 
-Die Spiele, Anleitung sowie der Code sind nun hier frei verfügbar und wir freuen uns über alle, die Lust haben, eine Idee nachzubauen oder gar weiterzuentwickeln. 
+Code und Anleitung der Simulationen und Spiele sind hier frei verfügbar und wir freuen uns über alle, die Lust haben, eine Idee nachzubauen oder gar weiterzuentwickeln. 
 
 Um die Studierenden bestmöglichst zu unterstützen wurden mehrere Studierendeprojekte in höheren Semestern durchgeführt, die es einfacher machten, https://pi4j.com/[Pi4J]  (auf https://github.com/Pi4J[github]) einzusetzen. 
 
